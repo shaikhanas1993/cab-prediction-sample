@@ -1,0 +1,10 @@
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\bin\Debug\netstandard2.0\HousePredictionMlML.Model.deps.json
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\bin\Debug\netstandard2.0\HousePredictionMlML.Model.dll
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\bin\Debug\netstandard2.0\HousePredictionMlML.Model.pdb
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.csprojAssemblyReference.cache
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.AssemblyInfoInputs.cache
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.AssemblyInfo.cs
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.dll
+C:\Users\shaik\source\repos\HousePredictionMlML.Model\obj\Debug\netstandard2.0\HousePredictionMlML.Model.pdb
